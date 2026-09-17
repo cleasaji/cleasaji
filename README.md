@@ -1,129 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fb5,50:c96fff,100:8a5cff&height=250&section=header&text=Hi,%20I'm%20Clea%20Saji&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20AI%20%2F%20Turning%20threat%20models%20into%20working%20code&descAlignY=54&descSize=19" />
+# 🌷 Clea Saji
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=D46FFF&center=true&vCenter=true&width=650&lines=CSIT+%2B+Cybersecurity+Specialization;Building+SOC+%2C+IDS+%2C+SAST+%2C+phishing+%2C+deepfake+detectors;Explainable+ML+%E2%80%94+no+black+boxes+if+I+can+help+it)](https://git.io/typing-svg)
+### 💗 Computer Science Student | Cybersecurity | AI
 
-<p>
-  <img src="https://img.shields.io/badge/CSIT-Cybersecurity_Specialization-ff6fb5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/B.Tech-2027-c96fff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI_%C3%97_Security-8a5cff?style=for-the-badge" />
-</p>
+*Learning • Building • Securing*
 
 </div>
 
-## 💗 About Me
+---
 
-```yaml
-name:         Clea Saji
-role:         B.Tech CSIT — Cybersecurity Specialization
-university:   Symbiosis Skills and Professional University
-grad_year:    2027
-focus:        Where AI meets Cybersecurity — explainable ML, SOC automation, SAST
-looking_for:  Security / software engineering roles where I can build things that matter
-currently:    Building an AI + Cybersecurity project portfolio, one repo at a time
-fun_fact:     I build security tools, then try to break them myself before anyone else can 🔓
-```
+## 🌸 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🎓 B.Tech Computer Science student specializing in Cybersecurity at **Symbiosis Skills and Professional University**
 
-**🔭 What I'm building**
-A 5-project AI + Cybersecurity portfolio — phishing detection, SOC log anomaly detection, network intrusion detection, an AI-assisted code scanner, and a voice-deepfake detector.
+🔐 Interested in **Cybersecurity, Security Engineering, Threat Detection & AI**
 
-**🌱 What I'm sharpening**
-SOC operations, threat detection, applied ML for security, and secure-by-design engineering.
+💻 I enjoy building practical security projects and experimenting with machine learning.
 
-</td>
-<td width="50%" valign="top">
+🌱 Currently learning more about **SOC Operations, Security Research, Web Security & AI/ML for Cybersecurity**
 
-**💬 Talk to me about**
-Explainable ML, SOC tooling, phishing/log-anomaly/IDS detection, or anything at the AI × security intersection.
+🧪 I like understanding how systems work — and finding ways to make them more secure.
 
-**⚡ How I work**
-Ship it, test it, break it myself, document it honestly — no black boxes if I can help it.
+🎀 Building my cybersecurity portfolio one project at a time.
 
-</td>
-</tr>
-</table>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cleasaji&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=ffffff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleasaji&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=ffffff" height="170"/>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,html,css,js,sklearn,pytorch,docker,linux,git,github,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=light" />
+</p>
+
+### Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker&theme=light" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XGBoost-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4D4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
 </p>
 
-## 🔐 Featured Security × AI Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>What it does</th>
-<th>Stack</th>
-</tr>
-<tr>
-<td>🛡️ <a href="https://github.com/cleasaji/PhishGuard-AI"><b>PhishGuard-AI</b></a></td>
-<td>Explainable phishing URL detection</td>
-<td>XGBoost + SHAP + FastAPI</td>
-</tr>
-<tr>
-<td>🕵️ <a href="https://github.com/cleasaji/LogSentinel"><b>LogSentinel</b></a></td>
-<td>SOC log anomaly detection</td>
-<td>Drain3 + IsolationForest + Autoencoder</td>
-</tr>
-<tr>
-<td>📡 <a href="https://github.com/cleasaji/NetGuard-IDS"><b>NetGuard-IDS</b></a></td>
-<td>Real-time network intrusion detection</td>
-<td>XGBoost + WebSocket live dashboard</td>
-</tr>
-<tr>
-<td>🔍 <a href="https://github.com/cleasaji/CodeSentry"><b>CodeSentry</b></a></td>
-<td>AI-assisted SAST vulnerability scanner</td>
-<td>AST rules + ML risk scoring + GitHub Actions</td>
-</tr>
-<tr>
-<td>🎙️ <a href="https://github.com/cleasaji/DeepVoice-Shield"><b>DeepVoice-Shield</b></a></td>
-<td>Deepfake / voice-phishing detection</td>
-<td>Pitch jitter + spectral features + XGBoost</td>
-</tr>
-</table>
-
-## 📊 GitHub Stats
+### AI / Machine Learning
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cleasaji&show_icons=true&theme=radical&title_color=ff6fb5&text_color=e8eef3&icon_color=c96fff&bg_color=0d1117&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleasaji&layout=compact&theme=radical&title_color=ff6fb5&text_color=e8eef3&bg_color=0d1117&hide_border=false" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-FF69B4?style=flat-square"/>
 </p>
+
+### Development
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=cleasaji&theme=radical&hide_border=false&background=0D1117&ring=FF6FB5&fire=C96FFF&border=8A5CFF" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,mysql,vscode&theme=light" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=cleasaji&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=7" />
-</p>
+---
 
-## 🌐 Connect With Me
+## 🔐 Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/cleasaji"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Send your email and I'll wire up a working mailto badge here — the previous badge pointed to a placeholder address that doesn't exist. -->
-</p>
+### 🛡️ PhishGuard-AI
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=cleasaji&color=ff6fb5&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+Machine learning based phishing URL detection with explainable predictions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5cff,50:c96fff,100:ff6fb5&height=120&section=footer" />
+**Python • XGBoost • SHAP • FastAPI**
+
+🔗 [View Project](https://github.com/cleasaji/PhishGuard-AI)
+
+---
+
+### 🕵️ LogSentinel
+
+Security log analysis and anomaly detection for SOC-style monitoring.
+
+**Python • Drain3 • Isolation Forest • Autoencoder**
+
+🔗 [View Project](https://github.com/cleasaji/LogSentinel)
+
+---
+
+### 📡 NetGuard-IDS
+
+Network intrusion detection system for identifying suspicious network activity.
+
+**Python • XGBoost • WebSocket**
+
+🔗 [View Project](https://github.com/cleasaji/NetGuard-IDS)
+
+---
+
+### 🔍 CodeSentry
+
+Security-focused source code analysis and vulnerability detection.
+
+**Python • AST • Machine Learning • GitHub Actions**
+
+🔗 [View Project](https://github.com/cleasaji/CodeSentry)
+
+---
+
+### 🎙️ DeepVoice-Shield
+
+Machine-learning based voice manipulation and deepfake detection project.
+
+**Python • Audio Features • XGBoost**
+
+🔗 [View Project](https://github.com/cleasaji/DeepVoice-Shield)
+
+---
+
+### 🔑 SecretScan
+
+A lightweight security scanner that detects potentially exposed API keys, passwords, tokens and other secrets in source code.
+
+**Python • Flask • Regex • Entropy Analysis**
+
+🔗 [View Project](https://github.com/cleasaji/SecretScan)
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Cybersecurity       🔐
+Security Engineering 🛡️
+SOC & Threat Detection 🕵️
+Machine Learning    🤖
+Web Security        🌐
+Python Development  🐍
+```
+
+---
+
+## 💗 Connect Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/cleasaji">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/cleasaji">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🌷 **Thanks for visiting my profile!**
+
+<img src="https://komarev.com/ghpvc/?username=cleasaji&color=ff69b4&style=flat-square&label=Profile+Views"/>
+
+</div>
