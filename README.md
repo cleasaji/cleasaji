@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                         HEADER                                -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4F8,8:B98BE8,20:E85A9B,50:F27FBC,78:FCAFDB,100:D8B4F8&height=310&section=header&text=Clea%20Saji&fontSize=72&fontColor=FFFFFF&fontFamily=Pacifico&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=62&descSize=19&descColor=FFFFFF" width="100%"/>
@@ -25,9 +23,7 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                         ABOUT                                 -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -105,9 +101,7 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                      TECH STACK                              -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -120,30 +114,17 @@
 
 <br><br>
 
-<img src="./tech-stack.svg" width="96%" alt="Animated Technology Stack"/>
+<!-- ANIMATED TECH STACK -->
+<img src="./tech-stack.gif" width="96%" alt="Animated Technology Stack"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/Python-FCAFDB?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-E85A9B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F27FBC?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-B98BE8?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/FastAPI-E85A9B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-F27FBC?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-B98BE8?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-E85A9B?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                    SECURITY TOOLKIT                          -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -235,9 +216,7 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                    FEATURED PROJECTS                         -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -409,9 +388,7 @@ Detects exposed API keys, passwords and tokens.
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                    PROJECT SNAPSHOT                          -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -425,45 +402,59 @@ Detects exposed API keys, passwords and tokens.
 <table align="center" width="94%">
 
 <tr>
+
 <th>🌸 Project</th>
 <th>🔧 Technology</th>
 <th>🛡️ Focus</th>
+
 </tr>
 
 <tr>
+
 <td>🐍 PhishGuard-AI</td>
 <td>XGBoost + SHAP</td>
 <td>Phishing Detection</td>
+
 </tr>
 
 <tr>
+
 <td>📋 LogSentinel</td>
 <td>Drain3 + ML</td>
 <td>Log Anomaly Detection</td>
+
 </tr>
 
 <tr>
+
 <td>🌐 NetGuard-IDS</td>
 <td>XGBoost</td>
 <td>Network Security</td>
+
 </tr>
 
 <tr>
+
 <td>🔎 CodeSentry</td>
 <td>AST + ML</td>
 <td>Secure Code Analysis</td>
+
 </tr>
 
 <tr>
+
 <td>🎙️ DeepVoice-Shield</td>
 <td>Audio + XGBoost</td>
 <td>Deepfake Detection</td>
+
 </tr>
 
 <tr>
+
 <td>🔑 SecretScan</td>
 <td>Regex + Entropy</td>
 <td>Secret Detection</td>
+
 </tr>
 
 </table>
@@ -471,9 +462,7 @@ Detects exposed API keys, passwords and tokens.
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                      GITHUB STATS                            -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -499,9 +488,7 @@ Detects exposed API keys, passwords and tokens.
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                         TROPHIES                             -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -515,9 +502,7 @@ Detects exposed API keys, passwords and tokens.
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                       ACHIEVEMENTS                           -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -529,7 +514,6 @@ Detects exposed API keys, passwords and tokens.
 </div>
 
 <table align="center" width="94%">
-
 <tr>
 
 <td align="center" width="33%">
@@ -601,9 +585,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                  SMART INDIA HACKATHON                       -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -673,9 +655,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                  LEARNING & CERTIFICATIONS                   -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -687,7 +667,6 @@ AI • Security • Web
 </div>
 
 <table align="center" width="94%">
-
 <tr>
 
 <td align="center">
@@ -764,9 +743,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                    CURRENTLY LEARNING                        -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -776,7 +753,6 @@ AI • Security • Web
 </div>
 
 <table align="center" width="94%">
-
 <tr>
 
 <td align="center">
@@ -850,9 +826,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                    AREAS OF INTEREST                         -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -882,9 +856,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                       HOW I BUILD                            -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -894,7 +866,6 @@ AI • Security • Web
 </div>
 
 <table align="center" width="94%">
-
 <tr>
 
 <td align="center">
@@ -998,9 +969,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                     CONTRIBUTIONS                            -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -1020,9 +989,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                         CONNECT                              -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -1054,9 +1021,7 @@ AI • Security • Web
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                          FOOTER                              -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
