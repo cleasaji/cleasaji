@@ -14,10 +14,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=cleasaji&label=PROFILE%20VIEWS&color=E85A9B&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/cleasaji?label=FOLLOWERS&style=for-the-badge&color=F27FBC&labelColor=FFF5FA"/>
-
-<img src="https://img.shields.io/github/stars/cleasaji?label=STARS&style=for-the-badge&color=B98BE8&labelColor=FFF5FA"/>
-
 </div>
 
 <br>
@@ -115,7 +111,7 @@
 <br><br>
 
 <!-- ANIMATED TECH STACK -->
-<img src="./tech-stack.gif" width="96%" alt="Animated Technology Stack"/>
+<img src="./tech-stack.svg" width="96%" alt="Animated Technology Stack"/>
 
 <br><br>
 
@@ -477,11 +473,7 @@ Detects exposed API keys, passwords and tokens.
 
 <img src="https://github-readme-stats.vercel.app/api?username=cleasaji&show_icons=true&hide_border=true&bg_color=fff5fa&title_color=E85A9B&text_color=704C5C&icon_color=B98BE8&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cleasaji&hide_border=true&background=fff5fa&ring=E85A9B&fire=F27FBC&currStreakLabel=E85A9B&sideLabels=704C5C&dates=9A8290" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleasaji&layout=compact&hide_border=true&bg_color=fff5fa&title_color=E85A9B&text_color=704C5C&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleasaji&layout=compact&hide_border=true&bg_color=fff5fa&title_color=E85A9B&text_color=704C5C&langs_count=8" width="49%"/>
 
 </div>
 
