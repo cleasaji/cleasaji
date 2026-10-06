@@ -80,6 +80,9 @@
 <a href="https://github.com/cleasaji?tab=repositories">
 <img src="https://img.shields.io/badge/%E2%99%A1%20VIEW%20ALL%20PROJECTS%20%E2%86%92-E85A9B?style=for-the-badge"/>
 </a>
+<a href="./PROJECTS.md">
+<img src="https://img.shields.io/badge/PROJECT%20CATALOG%20(68)-B98BE8?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
 
 </div>
 
